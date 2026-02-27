@@ -1,0 +1,6 @@
+Parameter,Value
+Temperature (K),300.0
+Resistance (Ohms),1000.0
+Bandwidth (Hz),1000000.0
+Sampling Frequency (Hz),10000000.0
+RMS Noise Voltage (V),0.000129
